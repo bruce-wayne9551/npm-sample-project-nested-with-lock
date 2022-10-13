@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "dependencies": {
         "color-convert": "2.0.1",
-        "hexo-cli": "4.2.0",
+        "hexo-cli": "4.3.0",
         "d3-interpolate":"1.4.0"
     }
 }
